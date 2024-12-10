@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.roxinho{
+    width: 1600px;
+    height: 1000px;
+    margin-top: 50px;
+    margin-bottom: -5px;
+    margin-left: -11px;
+}
+
+
+
+@media (max-width: 1000px){
+    .roxinho{
+        width: 431px;
+        height: 500px;
+        margin-left: -10px;
+    }
+}
